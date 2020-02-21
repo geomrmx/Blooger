@@ -45,4 +45,7 @@ $(document).ready(function() {
       1000
     );
   });
+
+  // AOS instance
+  AOS.init();
 });
